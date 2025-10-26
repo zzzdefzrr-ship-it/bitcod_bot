@@ -1,4 +1,5 @@
-{
+{"type": "module",
+
   "name": "bitcod-bot",
   "version": "1.0.0",
   "description": "Bitcod Bot - command-based Telegram bot (Arabic, manual withdrawals).",
